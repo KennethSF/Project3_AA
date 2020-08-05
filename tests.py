@@ -120,7 +120,7 @@ class TestingMethods(unittest.TestCase):
 
 
     def test_choosePath(self):
-        self.dummyRobot.pos=[8,9]
+        #self.dummyRobot.pos=[8,9]
         realProbLst=utilities.realProb(self.dummyRobot.cameraSight(self.floor))
         newProbLst=utilities.newProb(self.dummyRobot.cameraSight(self.floor),realProbLst)
         normProbList=utilities.normalizeProb(newProbLst)

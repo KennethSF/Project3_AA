@@ -80,10 +80,8 @@ class Robot:
     
     def choosePath(self,lst):
         value= utilities.randomNumber()
-        print (value)
         for i in range(len(lst)):
-            sumProb=utilities.partialSum(lst,i+1)
-            print("Partial sum: ",sumProb)
+            sumProb=round(utilities.partialSum(lst,i+1))
             if(value<=sumProb):
                 return i
         return -1

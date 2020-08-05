@@ -54,7 +54,10 @@ def realProb(lst):
 def newProb(costLst,probLst):
     newProbLst=probLst
     for i in range(len(costLst)):
-        newProbLst[i]=100/newProbLst[i]
+        if(newProbLst[i]!=0):
+            newProbLst[i]=100/newProbLst[i]
+        else:
+            newProbLst[i]=0
     return newProbLst
 
 def normalizeProb(probLst):
@@ -75,13 +78,13 @@ def partialSum(lst,max):
 
 def pathChoosen(value):
     switcher = {
-        1: "North",
-        2: "Northeast",
-        3: "East",
-        4: "Southeast",
-        5: "South",
-        6: "Southwest",
-        7: "West",
-        8: "Northwest",        
+        0: "North",
+        1: "Northeast",
+        2: "East",
+        3: "Southeast",
+        4: "South",
+        5: "Southwest",
+        6: "West",
+        7: "Northwest",        
     }
     print (switcher.get(value, "Invalid value"))
