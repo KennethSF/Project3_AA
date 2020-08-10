@@ -1,0 +1,450 @@
+********************************
+
+          Generation: 1
+
+********************************
+Father Robot#-1     Mother Robot#-1
+Robot #1 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 18 Column: 7
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #2 Battery: 240 Camera: 1 Engine: 1
+My last position is Row: 16 Column: 5
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #3 Battery: 80 Camera: 1 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #4 Battery: 160 Camera: 2 Engine: 1
+My last position is Row: 12 Column: 4
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #5 Battery: 160 Camera: 3 Engine: 1
+My last position is Row: 17 Column: 5
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #6 Battery: 240 Camera: 3 Engine: 2
+My last position is Row: 12 Column: 4
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #7 Battery: 240 Camera: 1 Engine: 1
+My last position is Row: 16 Column: 5
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #8 Battery: 240 Camera: 1 Engine: 1
+My last position is Row: 11 Column: 4
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #9 Battery: 80 Camera: 2 Engine: 2
+My last position is Row: 15 Column: 5
+---------------------------------------------------
+Father Robot#-1     Mother Robot#-1
+Robot #10 Battery: 160 Camera: 2 Engine: 1
+My last position is Row: 16 Column: 5
+---------------------------------------------------
+********************************
+
+          Generation: 2
+
+********************************
+Father Robot#8     Mother Robot#4
+Robot #1 Battery: 224 Camera: 3 Engine: 1
+My last position is Row: 12 Column: 4
+---------------------------------------------------
+Father Robot#7     Mother Robot#10
+Robot #2 Battery: 160 Camera: 3 Engine: 1
+My last position is Row: 12 Column: 4
+---------------------------------------------------
+Father Robot#8     Mother Robot#4
+Robot #3 Battery: 160 Camera: 3 Engine: 1
+My last position is Row: 12 Column: 4
+---------------------------------------------------
+Father Robot#7     Mother Robot#9
+Robot #4 Battery: 240 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 9
+---------------------------------------------------
+Father Robot#8     Mother Robot#9
+Robot #5 Battery: 80 Camera: 3 Engine: 3
+My last position is Row: 15 Column: 19
+---------------------------------------------------
+Father Robot#7     Mother Robot#1
+Robot #6 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#3     Mother Robot#5
+Robot #7 Battery: 208 Camera: 1 Engine: 1
+My last position is Row: 17 Column: 5
+---------------------------------------------------
+Father Robot#4     Mother Robot#3
+Robot #8 Battery: 80 Camera: 3 Engine: 1
+My last position is Row: 18 Column: 11
+---------------------------------------------------
+Father Robot#8     Mother Robot#3
+Robot #9 Battery: 240 Camera: 1 Engine: 1
+My last position is Row: 17 Column: 5
+---------------------------------------------------
+Father Robot#10     Mother Robot#4
+Robot #10 Battery: 160 Camera: 2 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+********************************
+
+          Generation: 3
+
+********************************
+Father Robot#6     Mother Robot#5
+Robot #1 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 7 Column: 17
+---------------------------------------------------
+Father Robot#4     Mother Robot#6
+Robot #2 Battery: 240 Camera: 3 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#4     Mother Robot#4
+Robot #3 Battery: 240 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#6     Mother Robot#6
+Robot #4 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#4     Mother Robot#4
+Robot #5 Battery: 240 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#8     Mother Robot#5
+Robot #6 Battery: 80 Camera: 3 Engine: 1
+My last position is Row: 7 Column: 9
+---------------------------------------------------
+Father Robot#3     Mother Robot#1
+Robot #7 Battery: 160 Camera: 3 Engine: 1
+My last position is Row: 12 Column: 4
+---------------------------------------------------
+Father Robot#5     Mother Robot#6
+Robot #8 Battery: 80 Camera: 3 Engine: 3
+My last position is Row: 1 Column: 9
+---------------------------------------------------
+Father Robot#6     Mother Robot#5
+Robot #9 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#6     Mother Robot#9
+Robot #10 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 18 Column: 7
+---------------------------------------------------
+********************************
+
+          Generation: 4
+
+********************************
+Father Robot#2     Mother Robot#1
+Robot #1 Battery: 240 Camera: 1 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#7     Mother Robot#1
+Robot #2 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#6     Mother Robot#7
+Robot #3 Battery: 160 Camera: 3 Engine: 1
+My last position is Row: 17 Column: 5
+---------------------------------------------------
+Father Robot#3     Mother Robot#1
+Robot #4 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 18 Column: 7
+---------------------------------------------------
+Father Robot#7     Mother Robot#8
+Robot #5 Battery: 208 Camera: 3 Engine: 1
+My last position is Row: 14 Column: 5
+---------------------------------------------------
+Father Robot#1     Mother Robot#6
+Robot #6 Battery: 80 Camera: 3 Engine: 1
+My last position is Row: 17 Column: 5
+---------------------------------------------------
+Father Robot#9     Mother Robot#8
+Robot #7 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#10     Mother Robot#6
+Robot #8 Battery: 208 Camera: 1 Engine: 1
+My last position is Row: 18 Column: 5
+---------------------------------------------------
+Father Robot#8     Mother Robot#6
+Robot #9 Battery: 80 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#8     Mother Robot#3
+Robot #10 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+********************************
+
+          Generation: 5
+
+********************************
+Father Robot#4     Mother Robot#10
+Robot #1 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#1     Mother Robot#8
+Robot #2 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 11 Column: 14
+---------------------------------------------------
+Father Robot#7     Mother Robot#6
+Robot #3 Battery: 80 Camera: 3 Engine: 3
+My last position is Row: 11 Column: 15
+---------------------------------------------------
+Father Robot#10     Mother Robot#3
+Robot #4 Battery: 224 Camera: 3 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#5     Mother Robot#8
+Robot #5 Battery: 208 Camera: 3 Engine: 1
+My last position is Row: 12 Column: 4
+---------------------------------------------------
+Father Robot#7     Mother Robot#4
+Robot #6 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#1     Mother Robot#2
+Robot #7 Battery: 240 Camera: 1 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#3     Mother Robot#9
+Robot #8 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#1     Mother Robot#5
+Robot #9 Battery: 240 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#10     Mother Robot#9
+Robot #10 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 11 Column: 15
+---------------------------------------------------
+********************************
+
+          Generation: 6
+
+********************************
+Father Robot#7     Mother Robot#8
+Robot #1 Battery: 144 Camera: 1 Engine: 3
+My last position is Row: 4 Column: 18
+---------------------------------------------------
+Father Robot#1     Mother Robot#2
+Robot #2 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 4 Column: 19
+---------------------------------------------------
+Father Robot#8     Mother Robot#1
+Robot #3 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 15 Column: 18
+---------------------------------------------------
+Father Robot#9     Mother Robot#3
+Robot #4 Battery: 112 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#8     Mother Robot#10
+Robot #5 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#1     Mother Robot#2
+Robot #6 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#5     Mother Robot#10
+Robot #7 Battery: 208 Camera: 3 Engine: 1
+My last position is Row: 14 Column: 5
+---------------------------------------------------
+Father Robot#8     Mother Robot#9
+Robot #8 Battery: 240 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#6     Mother Robot#10
+Robot #9 Battery: 160 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#3     Mother Robot#5
+Robot #10 Battery: 80 Camera: 3 Engine: 1
+My last position is Row: 12 Column: 0
+---------------------------------------------------
+********************************
+
+          Generation: 7
+
+********************************
+Father Robot#7     Mother Robot#5
+Robot #1 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 11 Column: 15
+---------------------------------------------------
+Father Robot#1     Mother Robot#9
+Robot #2 Battery: 160 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#2     Mother Robot#2
+Robot #3 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#2     Mother Robot#5
+Robot #4 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#1     Mother Robot#2
+Robot #5 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#7     Mother Robot#1
+Robot #6 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 4 Column: 19
+---------------------------------------------------
+Father Robot#2     Mother Robot#2
+Robot #7 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#4     Mother Robot#1
+Robot #8 Battery: 112 Camera: 1 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#8     Mother Robot#4
+Robot #9 Battery: 112 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#1     Mother Robot#1
+Robot #10 Battery: 144 Camera: 1 Engine: 3
+My last position is Row: 4 Column: 18
+---------------------------------------------------
+********************************
+
+          Generation: 8
+
+********************************
+Father Robot#1     Mother Robot#10
+Robot #1 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 17 Column: 9
+---------------------------------------------------
+Father Robot#8     Mother Robot#9
+Robot #2 Battery: 112 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#10     Mother Robot#5
+Robot #3 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 4 Column: 18
+---------------------------------------------------
+Father Robot#1     Mother Robot#6
+Robot #4 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#10     Mother Robot#8
+Robot #5 Battery: 112 Camera: 1 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#4     Mother Robot#10
+Robot #6 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#1     Mother Robot#6
+Robot #7 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 9
+---------------------------------------------------
+Father Robot#2     Mother Robot#6
+Robot #8 Battery: 160 Camera: 3 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#6     Mother Robot#10
+Robot #9 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#3     Mother Robot#1
+Robot #10 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+********************************
+
+          Generation: 9
+
+********************************
+Father Robot#3     Mother Robot#4
+Robot #1 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#3     Mother Robot#3
+Robot #2 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 1 Column: 9
+---------------------------------------------------
+Father Robot#6     Mother Robot#4
+Robot #3 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#7     Mother Robot#3
+Robot #4 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#3     Mother Robot#2
+Robot #5 Battery: 240 Camera: 1 Engine: 3
+My last position is Row: 17 Column: 9
+---------------------------------------------------
+Father Robot#10     Mother Robot#9
+Robot #6 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 17 Column: 9
+---------------------------------------------------
+Father Robot#7     Mother Robot#6
+Robot #7 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 4 Column: 18
+---------------------------------------------------
+Father Robot#9     Mother Robot#3
+Robot #8 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 18 Column: 7
+---------------------------------------------------
+Father Robot#3     Mother Robot#4
+Robot #9 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 17 Column: 9
+---------------------------------------------------
+Father Robot#3     Mother Robot#3
+Robot #10 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+********************************
+
+          Generation: 10
+
+********************************
+Father Robot#7     Mother Robot#2
+Robot #1 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 13 Column: 5
+---------------------------------------------------
+Father Robot#1     Mother Robot#2
+Robot #2 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#2     Mother Robot#7
+Robot #3 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 9
+---------------------------------------------------
+Father Robot#2     Mother Robot#3
+Robot #4 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#3     Mother Robot#7
+Robot #5 Battery: 208 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 9
+---------------------------------------------------
+Father Robot#10     Mother Robot#2
+Robot #6 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#8     Mother Robot#2
+Robot #7 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
+Father Robot#4     Mother Robot#10
+Robot #8 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 4 Column: 19
+---------------------------------------------------
+Father Robot#2     Mother Robot#6
+Robot #9 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 16 Column: 9
+---------------------------------------------------
+Father Robot#10     Mother Robot#2
+Robot #10 Battery: 144 Camera: 3 Engine: 3
+My last position is Row: 0 Column: 3
+---------------------------------------------------
